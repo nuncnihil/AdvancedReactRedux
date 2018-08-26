@@ -1,2 +1,2 @@
 # AdvancedReactRedux
-Udemy course - redux middleware authentication
+Udemy course - redux browserRouter authentication
