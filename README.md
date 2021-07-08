@@ -1,5 +1,5 @@
 
 
 # AdvancedReactRedux
-Udemy course - redux browserRouter authentication
+Udemy course - redux browserRouter authenticationx
 
